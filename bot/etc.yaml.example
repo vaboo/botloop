@@ -1,0 +1,13 @@
+---
+nick: saa
+uname: whelp
+iname: wulululu
+pass: pumpernickel
+serv: irc.rizon.net
+port: 9999
+ssl: 1
+owner:
+        - shelf
+debug: 0
+lastfmkey: c3a51a746a3d1351087e1059719355c5
+lastfmsecret: 9e09c215c121d2a1c11565e2d37b2830

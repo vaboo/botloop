@@ -1,0 +1,2 @@
+chan:
+        - { name: '#botloop', youtube: 0, uri: 0, weather: 1, lastfm: 1 }
