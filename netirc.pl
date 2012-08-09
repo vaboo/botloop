@@ -18,7 +18,7 @@ $channel        = '#botloop';
 $password       = '';
 @admins         = ('shelf');
 
-$nickname += int(rand(1000));
+$nickname .= int(rand(1000));
 
 $connection = $net->newconn(
         Server          => "$server",
